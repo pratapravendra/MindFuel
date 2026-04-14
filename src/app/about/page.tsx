@@ -58,8 +58,7 @@ export default function AboutPage() {
                     </h2>
                     <p className='text-gray-400 max-w-2xl mx-auto leading-relaxed mb-8'>
                           Whether you&apos;re just starting out or refining your skills, TechBlog
-              is designed to inspire better code, better design, and better
-              thinking.
+              is designed to inspire better code, better design, and better thinking.
                     </p>
                     <Link href="/articles" className='inline-flex items-center justify-center px-6 py-3 rounded-full bg-indigo-600 hover:bg-indigo-500 transition-colors text-white font-semibold'>
                     Explore
