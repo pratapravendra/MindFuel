@@ -23,7 +23,7 @@ export default function SignInModal() {
   return (
     <Modal onClose={closeSignIn} isOpen={isSignInOpen}>
       <h2 className="text-xl font-semibold text-white mb-2">
-        Sign in to TechBlog
+        Sign in to MindFuel
       </h2>
 
       <p className="text-sm text-gray-400 mb-8">
