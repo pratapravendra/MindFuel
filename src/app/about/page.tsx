@@ -22,7 +22,7 @@ export default function AboutPage() {
             <div className='space-y-14'>
                 {/* section 1 */}
                 <div className='grid grid-cols-1 md:grid-cols-2 gap-10 items-center'>
-                    <Image src="/images/about.png" alt='about-image'width={600}height={600} className='rounded-2xl object-cover'/>
+                    <Image src="/images/IMAGE2.png" alt='about-image'width={600}height={600} className='rounded-2xl object-cover'/>
                     <div>
                         <h2 className='text-2xl font-semibold text-gray-200 mb-4'>
                             Why MindFuel TechBlog?
@@ -57,7 +57,7 @@ export default function AboutPage() {
                         Built for Developers
                     </h2>
                     <p className='text-gray-400 max-w-2xl mx-auto leading-relaxed mb-8'>
-                          Whether you&apos;re just starting out or refining your skills, TechBlog
+                          Whether you&apos;re just starting out or refining your skills, MindFuel
               is designed to inspire better code, better design, and better thinking.
                     </p>
                     <Link href="/articles" className='inline-flex items-center justify-center px-6 py-3 rounded-full bg-indigo-600 hover:bg-indigo-500 transition-colors text-white font-semibold'>

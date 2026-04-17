@@ -2,8 +2,8 @@ import { Post } from "@/types/post";
 import Image from "next/image";
 import Link from "next/link";
 
-const baseUrl = "https://tech-blog-egbontech.vercel.app/"
-
+const baseUrl =   "http://localhost:3000";
+//"https://tech-blog-egbontech.vercel.app/"
 
 
 export default async function RecentPosts() {

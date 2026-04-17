@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <ContainerLayout>
       <h1 className="text-3xl lg:text-5xl xl:text-7xl text-center text-gray-200 tracking-wide leading-snug lg:leading-tight xl:leading-tight">
-        <span className="font-bold">Welcome to TechBlog!</span> <br /> Discover
+        <span className="font-bold">Welcome to MindFuel!</span> <br /> Discover
         Stories and Creative Ideas
       </h1>
       <div className="py-12 lg:py-24">
@@ -18,7 +18,7 @@ export default function Home() {
           {/* image */}
           <div className="relative">
             <Image
-              src="/images/about.png"
+              src="/images/IMAGE2.png"
               alt="about-image"
               width={600}
               height={600}
