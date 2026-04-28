@@ -15,7 +15,7 @@ export async function uploadToCloudinary(
 
   try {
     const result = await cloudiary.uploader.upload(dataURL, {
-      folder: "tech-blog",
+      folder: "mind-fuel",
       transformation: [{ format: "webp" }],
     });
 
